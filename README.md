@@ -5,17 +5,27 @@ Veloura is a modern and elegant fashion e-commerce website developed using React
 Features-
 
 -Elegant and modern homepage
+
 -Hero section with Explore navigation
+
 -New Arrivals section
+
 -Shop by Category
+
 -Category-based product browsing
+
 -Promotional banner
+
 -Navigation between website sections
 
 Technologies Used-
 
 -React.js
+
 -JavaScript
+
 -HTML5
+
 -CSS3
+
 -Vite
